@@ -1,0 +1,2 @@
+(this.webpackJsonpchitayka=this.webpackJsonpchitayka||[]).push([[0],{11:function(p,e,t){"use strict";t.r(e);t(0);var n=t(3),r=t.n(n),a=(t(9),t(4)),c=t.n(a),s=t(1),i=function(){return Object(s.jsx)("div",{className:c.a.App,children:"Chitayka"})};r.a.render(Object(s.jsx)(i,{}),document.getElementById("root"))},4:function(p,e,t){p.exports={App:"App_App__3jYcK",displayNumbersWrapper:"App_displayNumbersWrapper__evozB",counter:"App_counter__3H7p0"}},9:function(p,e,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.53b4d2b1.chunk.js.map

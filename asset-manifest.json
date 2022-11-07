@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chitayka/static/css/main.41e147cf.chunk.css",
+    "main.js": "/chitayka/static/js/main.53b4d2b1.chunk.js",
+    "main.js.map": "/chitayka/static/js/main.53b4d2b1.chunk.js.map",
+    "runtime-main.js": "/chitayka/static/js/runtime-main.edf4c996.js",
+    "runtime-main.js.map": "/chitayka/static/js/runtime-main.edf4c996.js.map",
+    "static/js/2.4847e542.chunk.js": "/chitayka/static/js/2.4847e542.chunk.js",
+    "static/js/2.4847e542.chunk.js.map": "/chitayka/static/js/2.4847e542.chunk.js.map",
+    "index.html": "/chitayka/index.html",
+    "static/css/main.41e147cf.chunk.css.map": "/chitayka/static/css/main.41e147cf.chunk.css.map",
+    "static/js/2.4847e542.chunk.js.LICENSE.txt": "/chitayka/static/js/2.4847e542.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edf4c996.js",
+    "static/js/2.4847e542.chunk.js",
+    "static/css/main.41e147cf.chunk.css",
+    "static/js/main.53b4d2b1.chunk.js"
+  ]
+}
